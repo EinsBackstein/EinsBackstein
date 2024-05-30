@@ -1,6 +1,6 @@
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Einsbackstein/Einsbackstein/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Einsbackstein/Einsbackstein/dist/github-contribution-grid-snake-dark.svg)
 
 ###
 

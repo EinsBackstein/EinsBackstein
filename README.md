@@ -23,9 +23,9 @@
 ###
 
 <div>
-  [![Julians's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinsBackstein)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://streak-stats.demolab.com?user=EinsBackstein&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&hide_border=true&theme=codeSTACKr&layout=compact" height="150" alt="languages graph"  />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=EinsBackstein&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </div>
 
 ###

@@ -23,7 +23,7 @@
 ###
 
 <div>
-  https://github-readme-stats.vercel.app/api?username=EinsBackstein&count_private=true
+  <img src="https://github-readme-stats.vercel.app/api?username=EinsBackstein&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=EinsBackstein&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&hide_border=true&theme=codeSTACKr&layout=compact" height="150" alt="languages graph"  />
 </div>

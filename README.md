@@ -20,13 +20,14 @@
 
 <h1 align="left">🔥Stats</h1>
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&layout=compact&hide=html&langs_count=8&size_weight=0.5&count_weight=0.5&theme=shadow_green&show_icons=true)
+![Julians Github Stats](https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=shadow_green&count_private=true&hide_rank=true&show_icons=true&hide=prs,prs_reviewed,contribs&show=prs_merged,prs_merged_percentage)
+![GitHub Streak](https://streak-stats.demolab.com?user=EinsBackstein&theme=shadow-green)
 
-<div>
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=EinsBackstein&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-</div>
+
+
+
+
 
 ###
 

@@ -18,7 +18,6 @@
 
 ###
 
-
 <h1 align="left">🔥Stats</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&layout=compact&hide=html&langs_count=8&size_weight=0.5&count_weight=0.5&theme=shadow_green&show_icons=true)

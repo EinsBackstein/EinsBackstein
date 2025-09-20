@@ -19,19 +19,30 @@
 ###
 
 <h1 align="left">🔥Stats</h1>
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <!-- First row: two stats side by side -->
   <tr>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&hide_border=true&layout=compact&hide=html&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&show_icons=true&height=200" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&hide_border=true&count_private=true&layout=compact&hide=html&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&show_icons=true&height=200" />
     </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=github_dark&hide_border=true&count_private=true&hide_rank=true&show_icons=true&hide=prs,prs_reviewed,contribs&show=prs_merged,prs_merged_percentage&height=200" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=github_dark&hide_border=true&count_private=true&show_icons=true&hide=prs,prs_reviewed,contribs&show=prs_merged,prs_merged_percentage&height=200" />
     </td>
-    <td width="40%">
+  </tr>
+
+  <!-- Empty spacer row -->
+  <tr><td colspan="2" height="0%"></td></tr>
+
+  <!-- Second row: streak stat centered -->
+  <tr>
+    <td colspan="2" align="center" style="background-color:transparent;">
       <img src="https://streak-stats.demolab.com?user=EinsBackstein&theme=github-dark-blue&hide_border=true&card_width=400&fire=EB8300" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+
+
 
 <h2 align="left">🚀 Tech Stack</h2>
 

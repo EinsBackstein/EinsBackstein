@@ -20,9 +20,9 @@
 
 <h1 align="left">🔥Stats</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&layout=compact&hide=html&langs_count=8&size_weight=0.5&count_weight=0.5&theme=shadow_green&show_icons=true)
-![Julians Github Stats](https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=shadow_green&count_private=true&hide_rank=true&show_icons=true&hide=prs,prs_reviewed,contribs&show=prs_merged,prs_merged_percentage)
-![GitHub Streak](https://streak-stats.demolab.com?user=EinsBackstein&theme=shadow-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EinsBackstein&layout=compact&hide=html&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&show_icons=true)
+![Julians Github Stats](https://github-readme-stats.vercel.app/api?username=EinsBackstein&theme=github_dark&count_private=true&hide_rank=true&show_icons=true&hide=prs,prs_reviewed,contribs&show=prs_merged,prs_merged_percentage)
+![GitHub Streak](https://streak-stats.demolab.com?user=EinsBackstein&theme=github-dark-blue)
 
 
 

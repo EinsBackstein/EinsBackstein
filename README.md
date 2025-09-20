@@ -39,6 +39,15 @@
       <img src="https://streak-stats.demolab.com?user=EinsBackstein&theme=github-dark-blue&hide_border=true&card_width=400&fire=EB8300" alt="GitHub Streak" />
     </td>
   </tr>
+  <tr><td colspan="2" height="0%"></td></tr>
+    <tr>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=EinsBackstein&theme=github-dark" height=300 alt="activity graph"  />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EinsBackstein&theme=github_dark&height=300" height=300 alt="profile details"  />
+    </td>
+  </tr>
 </table>
 
 
